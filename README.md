@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I am TangHanchen</h1>
+<h3 align="left">🔽 Some stats about me🔽</h3>
 
-<!--
-**TangHanchen/TangHanchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangHanchen&theme=date_night">
+</p>
+<p align="left"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangHanchen&theme=date_night"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tech Stack 👀:
+
+![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=CPlusPlus)
+![Static Badge](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
+![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)
