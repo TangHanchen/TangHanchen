@@ -8,18 +8,12 @@
 <p align="left"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangHanchen&theme=dark"/>
 </p>
-<p align="left">
-<img src="[https://github-readme-stats.vercel.app/api?username=TangHanchen]">
-</p>
-<p align="left">
-<img src="[https://github-profile-trophy.vercel.app/?username=TangHanchen]">
-</p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TangHanchen)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TangHanchen.TangHanchen)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
 
-
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
 ### Tech Stack 👀:
 
 ![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=CPlusPlus)
