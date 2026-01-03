@@ -11,7 +11,9 @@
 <p align="left">
 <img src="[https://github-readme-stats.vercel.app/api?username=TangHanchen]">
 </p>
-![Trophies](https://github-profile-trophy.vercel.app/?username=TangHanchen)
+<p align="left">
+<img src="[https://github-profile-trophy.vercel.app/?username=TangHanchen]">
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TangHanchen)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TangHanchen)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TangHanchen.TangHanchen)
