@@ -9,11 +9,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangHanchen&theme=dark"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TangHanchen)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TangHanchen)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TangHanchen)
 ### Tech Stack 👀:
 
 ![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=CPlusPlus)
