@@ -9,9 +9,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangHanchen&theme=dark"/>
 </p>
 <p align="left">
-<img src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangHanchen&theme=dark](https://github-readme-stats.vercel.app/api?username=TangHanchen)">
+<img src="[https://github-readme-stats.vercel.app/api?username=TangHanchen]">
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TangHanchen)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TangHanchen)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TangHanchen)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TangHanchen)
