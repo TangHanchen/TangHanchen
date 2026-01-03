@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="[https://github.com/TangHanchen/home-page/blob/main/background.jpg]" alt="背景图">
+</p>
+
 <h1 align="center">Hi 👋, I am TangHanchen</h1>
 <h3 align="left">🔽 Some stats about me🔽</h3>
 
