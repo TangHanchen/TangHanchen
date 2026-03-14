@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I am TangHanchen</h1>
-<h3 align="left">🔽 Some stats about me🔽</h3>
+### Hi there, I'm TangHanchen 👋
 
+### My Tech Stack
 
-<p align="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangHanchen&theme=dark">
-</p>
-<p align="left"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangHanchen&theme=dark"/>
-</p>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Github](https://img.shields.io/badge/-Github-252A2F?style=flat-square&logo=git&logoColor=%23ffffff)
+![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-3C78A9?style=flat-square&logo=c&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-3C78A9?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-C++-3C78A9?style=flat-square&logo=openjdk&logoColor=ffffff)
 
-### Tech Stack 👀:
+![TangHanchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangHanchen&show_icons=true&theme=dark)
 
-![Static Badge](https://img.shields.io/badge/C++-181A18?style=for-the-badge&logo=CPlusPlus)
-![Static Badge](https://img.shields.io/badge/Java-181A18?style=for-the-badge&logo=OpenJDK)
-![Static Badge](https://img.shields.io/badge/Python-181A18?style=for-the-badge&logo=Python)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceSaoKe/PrinceSaoKe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceSaoKe/PrinceSaoKe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrinceSaoKe/PrinceSaoKe/output/github-contribution-grid-snake.svg">
+</picture>
