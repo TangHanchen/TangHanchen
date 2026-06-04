@@ -9,8 +9,6 @@
 ![C++](http://img.shields.io/badge/-C++-3C78A9?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-3C78A9?style=flat-square&logo=openjdk&logoColor=ffffff)
 
-![TangHanchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangHanchen&show_icons=true&theme=dark)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceSaoKe/PrinceSaoKe/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceSaoKe/PrinceSaoKe/output/github-contribution-grid-snake.svg">
