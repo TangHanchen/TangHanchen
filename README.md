@@ -1,5 +1,3 @@
-### Hi there, I'm TangHanchen 👋
-
 ### My Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
